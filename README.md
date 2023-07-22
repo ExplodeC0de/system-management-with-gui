@@ -1,3 +1,3 @@
 # storage-management
 
-## under dev and very bugy
+## under dev and very buggy
